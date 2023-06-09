@@ -57,7 +57,7 @@ button{
     border: 5px solid rgb(248, 239, 239);
     width: 210px;
     height: 90px;
-    font-size: large;
+    font-size: 1.8rem;
     color: #e667f1;
     margin: 30px;
 }
